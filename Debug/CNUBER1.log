@@ -1,0 +1,25 @@
+﻿  Menu.cpp
+c:\users\kimms\documents\visual studio 2015\projects\cnuber1\menu.h(9): warning C4584: 'Menu': 'Driver' 기본 클래스가 이미 'Matching'의 기본 클래스입니다.
+  c:\users\kimms\documents\visual studio 2015\projects\cnuber1\driver.h(7): note: 'Driver' 선언을 참조하십시오.
+  c:\users\kimms\documents\visual studio 2015\projects\cnuber1\matching.h(7): note: 'Matching' 선언을 참조하십시오.
+c:\users\kimms\documents\visual studio 2015\projects\cnuber1\menu.cpp(120): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kimms\documents\visual studio 2015\projects\cnuber1\menu.cpp(238): warning C4244: '=': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/FORCE' 사양으로 인해 무시됩니다.
+Customer.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+Driver.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Driver.obj : warning LNK4006: "struct _COORD coord" (?coord@@3U_COORD@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Main.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Main.obj : warning LNK4006: "struct _COORD coord" (?coord@@3U_COORD@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Main.obj : warning LNK4006: "class Customer c" (?c@@3VCustomer@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Main.obj : warning LNK4006: "class Driver d" (?d@@3VDriver@@A)이(가) Driver.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Matching.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Matching.obj : warning LNK4006: "struct _COORD coord" (?coord@@3U_COORD@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Matching.obj : warning LNK4006: "class Customer c" (?c@@3VCustomer@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Matching.obj : warning LNK4006: "class Driver d" (?d@@3VDriver@@A)이(가) Driver.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Menu.obj : warning LNK4006: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Menu.obj : warning LNK4006: "struct _COORD coord" (?coord@@3U_COORD@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Menu.obj : warning LNK4006: "class Customer c" (?c@@3VCustomer@@A)이(가) Customer.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+Menu.obj : warning LNK4006: "class Driver d" (?d@@3VDriver@@A)이(가) Driver.obj에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+C:\Users\kimms\Documents\Visual Studio 2015\Projects\CNUBER1\Debug\CNUBER1.exe : warning LNK4088: /FORCE 옵션을 사용하여 생성하는 이미지입니다. 이미지가 실행되지 않을 수도 있습니다.
+  CNUBER1.vcxproj -> C:\Users\kimms\Documents\Visual Studio 2015\Projects\CNUBER1\Debug\CNUBER1.exe
+  CNUBER1.vcxproj -> C:\Users\kimms\Documents\Visual Studio 2015\Projects\CNUBER1\Debug\CNUBER1.pdb (Partial PDB)
